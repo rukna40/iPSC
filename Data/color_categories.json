@@ -1,0 +1,80 @@
+{
+  "RED": {
+    "category": "Apoptosis and tumor suppressor",
+    "genes": [
+      "TNFRSF10B", "BRCA1", "BRCA2", "TNF", "MAPK8", "AKT1", "BIRC5", "MCL1", "TP53", "CASP3", "CASP8", "CASP9", "TIGAR", "BAX", "CASP1", "GADD45A", "DAPK2", "BNIP3", "TP53I3", "TP53I11", "TP53INP2", "CASP4", "PERP", "DRAM1", "IER5", "TP63", "TP73", "PUMA", "BBC3", "NOXA", "PMAIP1", "TNFRSF1A", "TNFRSF1B", "GADD45A", "GADD45B", "GADD45G"
+    ]
+  },
+  "NAVY BLUE": {
+    "category": "Increased Cell proliferation",
+    "genes": [
+      "MYC", "EGFR", "ERBB2", "ERBB3", "ERBB4", "HGF", "TGFα", "FGF", "VEGF"
+    ]
+  },
+  "LIGHT GREEN": {
+    "category": "Extended S phase",
+    "genes": [
+      "MCM2", "PCNA", "HIST1H2A", "HIST1H2B", "HIST1H3A", "HIST1H4A", "RRM1", "RRM2", "CLASPIN", "E2F6", "E2F1", "E2F7", "E2F8", "CHEK1", "CHEK2"
+    ]
+  },
+  "ORANGE": {
+    "category": "DNA repair by Homologous recombination",
+    "genes": [
+      "RAD50", "RAD51", "RAD52", "RAD54", "BRCA1", "BRCA2", "NBS1", "XRCC5", "BLM", "WRN", "MRN", "BLM", "ATRX", "SIRT1", "XRCC6", "FANCD2", "FANCI", "BLM"
+    ]
+  },
+  "YELLOW": {
+    "category": "Telomere recombination",
+    "genes": [
+      "TRF1", "TRF2", "POT1", "TIN2", "TPP1", "RAP1", "TERT", "TERC"
+    ]
+  },
+  "BROWN": {
+    "category": "Glycolytic metabolism",
+    "genes": [
+      "HK1", "HK2", "PFKL", "PFKM", "TPI1", "GAPDH", "PGAM1", "PGAM2", "ENO1", "ENO2", "PKM", "HMGA1", "FOXO1"
+    ]
+  },
+  "PURPLE": {
+    "category": "Mitochondrial function and ribosomal proteins",
+    "genes": [
+      "MT-CO1", "MT-CO2", "MT-CO3", "DRP1", "MT-ND4L", "MT-ND5", "MT-CYB", "COX4", "PGC1α", "PPARGC1A", "NRF1", "NRF2", "TFAM", "MFN1", "MFN2", "OPA1", "DNM1L", "FIS1", "MTIF2", "MTFI3", "MTEFTU", "ATP5F1A", "NDUFS1", "UQCRC1", "COX6C", "COX7A1", "NDUFAF3", "GPX7", "GPX8", "SOD3", "TXNRD1", "CYB5R3", "FTH1", "FTL", "FMO5", "MFF", "FIS1", "MID49", "MIEF2", "MID51", "MIEF1", "OPA1", "MT-ND4", "EEF2", "EEF1A1", "RPS2", "RPS24", "RPL10", "RPS3A", "RPL3", "RPS6", "RPL26", "RPL5", "RPL11", "RPL13A", "RPS3A", "RPS27A", "RPS3", "ACTG1", "ACTB", "FLNA", "INF2", "SPIRE1C", "MIRO1", "MIRO2", "RHOT1", "RHOT2"
+    ]
+  },
+  "DARK GREEN": {
+    "category": "Cell cycle checkpoint regulators",
+    "genes": [
+      "RB", "ATM", "ATR", "CHK1", "CHK2", "E2F", "CDKN1A", "CDK1", "CDK2", "CDK4", "CCNB1", "CCNB3", "CCNE1", "MAD2", "BUB1", "CENPE", "CDV25A", "CDC25B", "CDC25C", "RAD9", "RAD17", "RAD9", "RAD17", "RAD24", "MEC3", "DDC1", "CDKN2C", "CCND1", "CDK6", "CDK2AP2"
+    ]
+  },
+  "hot PINK": {
+    "category": "Pluripotency and stem cell maintenance",
+    "genes": [
+      "SCF", "NANOG", "SOX2", "SOX6", "SOX17", "SOX9", "SOX10", "MYCN", "POU5F1", "POU5F3", "OCT4", "OCT6", "KLF4", "STAT3", "ESRRB", "MYC", "LIN28A", "LIN28B", "REX1", "ZFP42", "TERT", "FOXD3", "UTF1", "DPPA", "TBX3", "NR5A2", "HOXA1", "HOXA2", "HOXA3", "HOXA4", "HOXA5", "HOXA6", "HOXA7", "HOXA9", "HOXA10", "HOXA11", "HOXA13", "HOXB1", "HOXB2", "HOXB3", "HOXB4", "HOXB5", "HOXB6", "HOXB7", "HOXB8", "HOXB9", "HOXB13", "HOXC4", "HOXC5", "HOXC6", "HOXC8", "HOXC9", "HOXC10", "HOXC11", "HOXC12", "HOXC13", "HOXD1", "HOXD3", "HOXD4", "HOXD8", "HOXD9", "HOXD10", "HOXD11", "HOXD12", "HOXD13", "LIN28A", "PEG3", "LEFTY1", "LEFTY2", "ZIC1", "ZIC2", "ZIC3", "TCF3", "SALL4", "PRDM14", "DPPA2", "DPPA4"
+    ]
+  },
+  "MAGENTA": {
+    "category": "Oncogenes",
+    "genes": [
+      "MYCN", "MYCL", "KIT", "CD117", "SRC", "ABL1", "RAF1", "FOS", "RAS", "WNT", "MDM2", "BCL2L1", "BCL2", "BCL6", "MDM2"
+    ]
+  },
+  "LIGHT BLUE": {
+    "category": "Immune and inflammatory response",
+    "genes": [
+      "IL22RA1", "STAT1", "STAT2", "CXCL12", "TLR1", "TLR2", "TLR3", "TLR4", "TLR5", "TLR7", "TLR8", "TLR9", "NOD1", "NOD2", "DDX58", "IFIH1", "CGAS", "MB21D1", "STING1", "IL1A", "IL1B", "IL6", "IL8", "IL10", "IL12A", "IL12B", "IL17A", "IL18", "IL23A", "TNF", "IFNG", "IFNA1", "IFNB1", "CCL2", "CCL3", "CCL4", "CCL5", "CXCL10", "IL6R", "IL10RA", "IL10RB", "IL1R1", "IL1R2", "IL12RB1", "IL12RB2", "IFNGR1", "IFNGR2", "JAK1", "JAK2", "JAK3", "TYK2", "STAT1", "STAT2", "STAT3", "STAT4", "STAT5A", "STAT5B", "STAT6", "NFKB1", "NFKB2", "RELA", "RELB", "IKBKB", "IKBKG", "CHUK", "NEMO", "TNFAIP3", "MAPK1", "MAPK3", "MAPK8", "MAPK14", "MAP3K7", "IRAK1", "IRAK4", "MYD88", "TRAF6", "ISG15", "OAS1", "OAS2", "OAS3", "MX1", "MX2", "IFIT1", "IFIT2", "IFIT3", "RSAD2", "IRF1", "IRF3", "IRF7", "IRF9", "HLA-A", "HLA-B", "HLA-C", "HLA-DRA", "HLA-DRB1", "B2M", "TAP1", "TAP2", "CIITA", "CD3D", "CD4", "CD8A", "CD14", "CD19", "CD28", "CD40", "CD80", "CD86", "FOXP3", "CTLA4", "PDCD1", "CD274", "LAG3", "TIGIT", "C1QA", "C1QB", "C1QC", "C2", "C3", "C4A", "C4B", "C5", "CFB", "CFH", "CD46", "CD55", "CD59"
+    ]
+  },
+  "BLACK": {
+    "category": "Cell fate determinants",
+    "genes": [
+      "NOTCH1", "SHH", "Wnt", "Ang1", "TPO", "TGFβ", "BMP4", "BMP8b", "GDNF", "HEY1", "HEY2", "POU5F1", "TCF3", "FOXD3", "OTX2", "TCF7L1", "ID1", "ID2", "ID3", "ID4", "GATA4", "GATA6", "GATA3", "GATA1", "GATA2", "TBX3", "TBX6", "FOXA1", "FOXA2", "FOXA3", "HNF1A", "HNF4A", "HNF6", "NEUROG1", "NEUROG2", "ASCL1", "OLIG2", "PAX6", "PAX3", "PAX7", "LHX2", "LHX3", "LHX8", "NKX2-1", "NKX2-5", "NKX6-1", "HOXA9", "HOXB4", "HOXC8", "HOXD13", "RUNX1", "RUNX2", "RUNX3", "EOMES", "TBR1", "TBR2", "CEBPA", "SPI1", "IRF8", "TCF1", "TCF7", "BCL11A", "BCL11B", "FOXP3", "RORC", "TBX21", "GFI1", "GFI1B", "LEF1"
+    ]
+  },
+  "light pink": {
+    "category": "Other genes",
+    "genes": [
+      "EEF2", "RPS2", "RPS24", "FLNA", "COL3A1", "COL1A2", "FN1", "COL1A1", "ACTG1", "ACTB", "RN7SL1", "EEF1A1"
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+Masterfile.csv filter=lfs diff=lfs merge=lfs -text
+Raw_Masterfile.csv filter=lfs diff=lfs merge=lfs -text
+Normalized_Masterfile.csv filter=lfs diff=lfs merge=lfs -text
+CrossPlatfromNormFinal.csv filter=lfs diff=lfs merge=lfs -text 
+*.csv filter=lfs diff=lfs merge=lfs -text
